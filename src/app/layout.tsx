@@ -24,7 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="max-w-5xl mx-auto px-4 py-8">{children}</main>
         <footer className="border-t border-gray-800 px-6 py-4 mt-16 text-center text-xs text-gray-600">
           <p>No endorsements or affiliations with listed resources. </p>
-          <p>Hope it helps you with your internships/job search! ❤️ </p>
+          <p>Hope it helps you with your internship/job search! ❤️ </p>
           
         </footer>
       </body>
