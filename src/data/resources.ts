@@ -30,9 +30,35 @@ export const sections: Section[] = [
     id: "ai-ml",
     title: "AI / ML",
     resources: [
-      { name: "Papers With Code", url: "https://paperswithcode.com", description: "ML papers with implementation code" },
-      { name: "Andrej Karpathy YouTube", url: "https://www.youtube.com/@AndrejKarpathy", description: "Neural networks explained from scratch" },
       { name: "3Blue1Brown ML", url: "https://www.3blue1brown.com/topics/neural-networks", description: "Visual math intuitions for neural networks" },
+    ],
+  },
+  {
+    id: "youtube",
+    title: "YouTube",
+    resources: [
+      { name: "Andrej Karpathy", url: "https://www.youtube.com/@AndrejKarpathy", description: "Neural networks explained from scratch" },
+      { name: "ALifeEngineered", url: "https://www.youtube.com/@ALifeEngineered", description: "Engineer career advice" },
+      { name: "Dwarkesh Patel", url: "https://www.youtube.com/@DwarkeshPatel", description: "AI podcast and deep-dive interviews" },
+      { name: "Ryan Peterman", url: "https://www.youtube.com/@RyanLPeterman", description: "SWE career stories" },
+    ],
+  },
+  {
+    id: "ai-safety",
+    title: "AI Safety",
+    resources: [
+      { name: "BlueDot Impact", url: "https://www.bluedot.org", description: "AI safety courses and community for aspiring researchers" },
+      { name: "MATS", url: "https://www.matsprogram.org/", description: "ML Alignment Theory Scholars fellowship" },
+      { name: "Anthropic Fellows", url: "https://alignment.anthropic.com/2024/anthropic-fellows-program", description: "Anthropic's AI safety research fellowship" },
+      { name: "Astra Fellowship", url: "https://www.constellation.org/programs/astra-fellowship", description: "Constellation's fellowship for AI safety research" },
+    ],
+  },
+  {
+    id: "career",
+    title: "Career",
+    resources: [
+      { name: "CodePath", url: "https://www.codepath.org/", description: "Free coding courses and career support for students" },
+      { name: "80,000 Hours", url: "https://80000hours.org/", description: "Research-driven guide to high-impact careers" },
     ],
   },
   {
@@ -42,6 +68,51 @@ export const sections: Section[] = [
       { name: "MLH Fellowship", url: "https://fellowship.mlh.io", description: "Open source fellowship for aspiring technologists" },
       { name: "Headstart Fellowship", url: "https://www.headstartfellowship.com", description: "Fellowship connecting students with startups" },
       { name: "Neo Scholars", url: "https://neo.com/scholars", description: "Community and funding for ambitious builders" },
+    ],
+  },
+  {
+    id: "startup-fellowships",
+    title: "Startup Fellowships",
+    resources: [
+      { name: "Y Combinator", url: "https://www.ycombinator.com/", description: "Top startup accelerator and funding program" },
+      { name: "Z Fellows", url: "https://www.zfellows.com/", description: "Fellowship for young founders" },
+      { name: "Pear Fellowship", url: "https://pear.vc/programs/dorm/fellows/", description: "Dorm room fund fellowship for student founders" },
+      { name: "Kleiner Perkins Fellows", url: "https://www.kleinerperkins.com/fellows/", description: "Design and engineering fellowship at top startups" },
+    ],
+  },
+  {
+    id: "jobs",
+    title: "Job & Internship Search",
+    resources: [
+      { name: "Summer 2026 Internships", url: "https://github.com/SimplifyJobs/Summer2026-Internships", description: "Community-maintained list of summer 2026 tech internships" },
+      { name: "New Grad Positions", url: "https://github.com/SimplifyJobs/New-Grad-Positions", description: "Community-maintained list of new grad roles" },
+      { name: "LinkedIn", url: "https://www.linkedin.com/jobs", description: "Professional networking and job board" },
+      { name: "Glassdoor", url: "https://www.glassdoor.com", description: "Job listings, salary data, and company reviews" },
+    ],
+  },
+  {
+    id: "tools",
+    title: "Tools to Master",
+    resources: [
+      { name: "Claude Code", url: "https://docs.anthropic.com/en/docs/claude-code", description: "Anthropic's CLI for agentic coding with Claude" },
+      { name: "Cursor", url: "https://www.cursor.com/", description: "AI-powered code editor" },
+      { name: "Model Context Protocol", url: "https://modelcontextprotocol.io/", description: "Open protocol for connecting AI to tools and data" },
+    ],
+  },
+  {
+    id: "hackathons",
+    title: "Hackathons",
+    resources: [
+      { name: "Stanford TreeHacks", url: "https://www.treehacks.com/", description: "Stanford's premier annual hackathon" },
+      { name: "HackHarvard", url: "https://www.hackharvard.io/", description: "Harvard's annual hackathon" },
+      { name: "HackMIT", url: "https://hackmit.org/", description: "MIT's annual hackathon" },
+    ],
+  },
+  {
+    id: "events-networking",
+    title: "Events & Networking",
+    resources: [
+      { name: "Grace Hopper Celebration", url: "https://ghc.anitab.org/", description: "World's largest gathering of women and non-binary technologists" },
     ],
   },
 ];
