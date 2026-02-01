@@ -11,7 +11,8 @@
     "id": "system-design",
     "title": "System Design",
     "resources": [
-      { "name": "ByteByteGo", "url": "https://bytebytego.com", "description": "Visual system design guides by Alex Xu" }
+      { "name": "ByteByteGo", "url": "https://bytebytego.com", "description": "Visual system design guides by Alex Xu" },
+      { "name": "System Design School Primer", "url": "https://systemdesignschool.io/primer", "description": "Structured primer on system design concepts with examples" }
     ]
   },
   {
@@ -46,7 +47,26 @@
     "title": "Career",
     "resources": [
       { "name": "CodePath", "url": "https://www.codepath.org/", "description": "Free coding courses and career support for students" },
-      { "name": "80,000 Hours", "url": "https://80000hours.org/", "description": "Research-driven guide to high-impact careers" }
+      { "name": "80,000 Hours", "url": "https://80000hours.org/", "description": "Research-driven guide to high-impact careers" },
+      { "name": "Good First Issue", "url": "https://goodfirstissue.dev", "description": "Find beginner-friendly GitHub issues across popular projects" }
+    ]
+  },
+  {
+    "id": "resume",
+    "title": "Resume",
+    "resources": [
+      { "name": "Jobscan", "url": "https://www.jobscan.co", "description": "Check if your resume is ATS-friendly" },
+      { "name": "Resumes.fyi", "url": "https://resumes.fyi", "description": "Collection of resumes from people who claim they got interviews at big-name companies" },
+      { "name": "Harvard College Engineering Resume Example", "url": "https://careerservices.fas.harvard.edu/resources/harvard-college-resume-example-engineering/", "description": "Harvard’s engineering resume template/example" },
+      { "name": "Jake’s Resume Template", "url": "https://jakesresume.com/", "description": "Clean, proven resume template used by many candidates" }
+    ]
+  },
+    {
+    "id": "mass-application",
+    "title": "Mass Application",
+    "resources": [
+      { "name": "Job Application Tracker (Google Sheets)", "url": "https://docs.google.com/spreadsheets/d/1f8MsELOgmuHsAkvRueEAFL3ImyxZPhEyAOkUsuYx3k8/edit?gid=498543292#gid=498543292", "description": "Spreadsheet template to track job applications" },
+      { "name": "Simplify", "url": "https://simplify.jobs", "description": "Autofill job applications, track statuses, and discover roles" }
     ]
   },
   {
@@ -101,7 +121,17 @@
     "id": "events-networking",
     "title": "Events & Networking",
     "resources": [
-      { "name": "Grace Hopper Celebration", "url": "https://ghc.anitab.org/", "description": "World's largest gathering of women and non-binary technologists" }
+      { "name": "Grace Hopper Celebration", "url": "https://ghc.anitab.org/", "description": "World's largest gathering of women and non-binary technologists" },
+      { "name": "Rewriting the Code", "url": "https://rewritingthecode.org/", "description": "Community and programs supporting college and early-career women in tech" },
+      { "name": "AfroTech Conference", "url": "https://afrotech.com/", "description": "Conference and community celebrating Black technologists, startups, and culture" }
+    ]
+  },
+    {
+    "id": "tech-student-orgs",
+    "title": "Tech Student Orgs. on Campus",
+    "resources": [
+      { "name": "Google Developer Groups on Campus | College of Wooster", "url": "https://www.linkedin.com/company/woogdg/", "description": "Student-led Google Developer Group chapter at Wooster" },
+      { "name": "Woo NSBE Chapter", "url": "https://www.linkedin.com/company/black-code-nsbe-chapter/", "description": "National Society of Black Engineers chapter at Wooster" }
     ]
   }
 ]
