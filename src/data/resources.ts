@@ -88,6 +88,7 @@ export const sections: Section[] = [
       { name: "New Grad Positions", url: "https://github.com/SimplifyJobs/New-Grad-Positions", description: "Community-maintained list of new grad roles" },
       { name: "LinkedIn", url: "https://www.linkedin.com/jobs", description: "Professional networking and job board" },
       { name: "Glassdoor", url: "https://www.glassdoor.com", description: "Job listings, salary data, and company reviews" },
+      { name: "Levels.fyi", url: "https://www.levels.fyi/?tab=levels", description: "Tech salary data and compensation comparisons" },
     ],
   },
   {
