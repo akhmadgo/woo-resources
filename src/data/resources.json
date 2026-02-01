@@ -4,21 +4,30 @@
     "title": "Interview Prep",
     "resources": [
       { "name": "NeetCode", "url": "https://neetcode.io", "description": "Curated coding interview problems with video explanations" },
-      { "name": "LeetCode", "url": "https://leetcode.com", "description": "Practice coding problems used in real tech interviews" }
+      { "name": "LeetCode", "url": "https://leetcode.com", "description": "Practice coding problems used in real tech interviews" },
+      { "name": "Grind 75", "url": "https://www.techinterviewhandbook.org/grind75", "description": "Curated list of 75 LeetCode questions by an ex-Google engineer" },
+      { "name": "Tech Interview Handbook", "url": "https://www.techinterviewhandbook.org/", "description": "Free curated guide for coding interviews by Yangshun Tay" },
+      { "name": "Interviewing.io", "url": "https://interviewing.io/", "description": "Anonymous mock interviews with engineers from top companies" }
     ]
   },
   {
     "id": "system-design",
     "title": "System Design",
     "resources": [
-      { "name": "ByteByteGo", "url": "https://bytebytego.com", "description": "Visual system design guides by Alex Xu" }
+      { "name": "ByteByteGo", "url": "https://bytebytego.com", "description": "Visual system design guides by Alex Xu" },
+      { "name": "System Design Primer", "url": "https://github.com/donnemartin/system-design-primer", "description": "Open-source guide to learning system design for large-scale systems" },
+      { "name": "Designing Data-Intensive Applications", "url": "https://dataintensive.net/", "description": "Essential book on distributed systems and data architecture by Martin Kleppmann" }
     ]
   },
   {
     "id": "ai-ml",
     "title": "AI / ML",
     "resources": [
-      { "name": "3Blue1Brown ML", "url": "https://www.3blue1brown.com/topics/neural-networks", "description": "Visual math intuitions for neural networks" }
+      { "name": "3Blue1Brown ML", "url": "https://www.3blue1brown.com/topics/neural-networks", "description": "Visual math intuitions for neural networks" },
+      { "name": "fast.ai", "url": "https://www.fast.ai/", "description": "Free practical deep learning courses for coders" },
+      { "name": "Stanford CS229", "url": "https://cs229.stanford.edu/", "description": "Andrew Ng's Stanford machine learning course" },
+      { "name": "Hugging Face Learn", "url": "https://huggingface.co/learn", "description": "Free courses on NLP, transformers, and diffusion models" },
+      { "name": "Papers With Code", "url": "https://paperswithcode.com/", "description": "ML papers with code implementations and benchmarks" }
     ]
   },
   {
@@ -28,7 +37,10 @@
       { "name": "Andrej Karpathy", "url": "https://www.youtube.com/@AndrejKarpathy", "description": "Neural networks explained from scratch" },
       { "name": "ALifeEngineered", "url": "https://www.youtube.com/@ALifeEngineered", "description": "Engineer career advice" },
       { "name": "Dwarkesh Patel", "url": "https://www.youtube.com/@DwarkeshPatel", "description": "AI podcast and deep-dive interviews" },
-      { "name": "Ryan Peterman", "url": "https://www.youtube.com/@RyanLPeterman", "description": "SWE career stories" }
+      { "name": "Ryan Peterman", "url": "https://www.youtube.com/@RyanLPeterman", "description": "SWE career stories" },
+      { "name": "Fireship", "url": "https://www.youtube.com/@Fireship", "description": "Fast-paced tech news and tutorials in 100 seconds" },
+      { "name": "ThePrimeagen", "url": "https://www.youtube.com/@ThePrimeTimeagen", "description": "Software engineering, Vim, and performance deep dives" },
+      { "name": "Lex Fridman", "url": "https://www.youtube.com/@lexfridman", "description": "Long-form interviews with leaders in AI, science, and tech" }
     ]
   },
   {
@@ -46,7 +58,10 @@
     "title": "Career",
     "resources": [
       { "name": "CodePath", "url": "https://www.codepath.org/", "description": "Free coding courses and career support for students" },
-      { "name": "80,000 Hours", "url": "https://80000hours.org/", "description": "Research-driven guide to high-impact careers" }
+      { "name": "80,000 Hours", "url": "https://80000hours.org/", "description": "Research-driven guide to high-impact careers" },
+      { "name": "ColorStack", "url": "https://www.colorstack.org/", "description": "Community for Black and Latinx CS students with mentorship and opportunities" },
+      { "name": "Rewriting the Code", "url": "https://rewritingthecode.org/", "description": "Community and resources for women in tech" },
+      { "name": "Break Through Tech", "url": "https://www.breakthroughtech.org/", "description": "Programs to increase diversity in tech through skills and access" }
     ]
   },
   {
@@ -86,7 +101,11 @@
     "resources": [
       { "name": "Claude Code", "url": "https://docs.anthropic.com/en/docs/claude-code", "description": "Anthropic's CLI for agentic coding with Claude" },
       { "name": "Cursor", "url": "https://www.cursor.com/", "description": "AI-powered code editor" },
-      { "name": "Model Context Protocol", "url": "https://modelcontextprotocol.io/", "description": "Open protocol for connecting AI to tools and data" }
+      { "name": "Model Context Protocol", "url": "https://modelcontextprotocol.io/", "description": "Open protocol for connecting AI to tools and data" },
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "description": "AI pair programmer integrated into your editor" },
+      { "name": "Git", "url": "https://git-scm.com/book/en/v2", "description": "Pro Git book — the definitive guide to version control" },
+      { "name": "Docker", "url": "https://docs.docker.com/get-started/", "description": "Containerization platform essential for modern development" },
+      { "name": "Vercel", "url": "https://vercel.com/", "description": "Deploy frontend projects instantly with zero config" }
     ]
   },
   {
@@ -95,14 +114,46 @@
     "resources": [
       { "name": "Stanford TreeHacks", "url": "https://www.treehacks.com/", "description": "Stanford's premier annual hackathon" },
       { "name": "HackHarvard", "url": "https://www.hackharvard.io/", "description": "Harvard's annual hackathon" },
-      { "name": "HackMIT", "url": "https://hackmit.org/", "description": "MIT's annual hackathon" }
+      { "name": "HackMIT", "url": "https://hackmit.org/", "description": "MIT's annual hackathon" },
+      { "name": "CalHacks", "url": "https://www.calhacks.io/", "description": "UC Berkeley's flagship hackathon" },
+      { "name": "PennApps", "url": "https://pennapps.com/", "description": "UPenn's student-run hackathon, one of the first collegiate hackathons" },
+      { "name": "HackNYU", "url": "https://hacknyu.org/", "description": "NYU's annual hackathon" }
     ]
   },
   {
     "id": "events-networking",
     "title": "Events & Networking",
     "resources": [
-      { "name": "Grace Hopper Celebration", "url": "https://ghc.anitab.org/", "description": "World's largest gathering of women and non-binary technologists" }
+      { "name": "Grace Hopper Celebration", "url": "https://ghc.anitab.org/", "description": "World's largest gathering of women and non-binary technologists" },
+      { "name": "AfroTech", "url": "https://experience.afrotech.com/", "description": "Largest tech conference for Black professionals and innovators" },
+      { "name": "SHPE National Convention", "url": "https://www.shpe.org/", "description": "Largest STEM conference for Hispanics" }
+    ]
+  },
+  {
+    "id": "open-source",
+    "title": "Open Source",
+    "resources": [
+      { "name": "First Contributions", "url": "https://firstcontributions.github.io/", "description": "Beginner-friendly guide to making your first open-source contribution" },
+      { "name": "Good First Issues", "url": "https://goodfirstissues.com/", "description": "Curated list of beginner-friendly issues across popular repos" },
+      { "name": "Google Summer of Code", "url": "https://summerofcode.withgoogle.com/", "description": "Paid program for students to contribute to open-source projects" }
+    ]
+  },
+  {
+    "id": "cs-fundamentals",
+    "title": "CS Fundamentals",
+    "resources": [
+      { "name": "MIT OpenCourseWare", "url": "https://ocw.mit.edu/collections/introductory-programming/", "description": "Free MIT course materials for intro CS and programming" },
+      { "name": "Teach Yourself CS", "url": "https://teachyourselfcs.com/", "description": "Structured self-study guide for core computer science topics" },
+      { "name": "The Missing Semester (MIT)", "url": "https://missing.csail.mit.edu/", "description": "Practical tools every CS student should know: shell, Git, Vim, etc." }
+    ]
+  },
+  {
+    "id": "newsletters-blogs",
+    "title": "Newsletters & Blogs",
+    "resources": [
+      { "name": "The Pragmatic Engineer", "url": "https://newsletter.pragmaticengineer.com/", "description": "Deep dives into big tech engineering practices by Gergely Orosz" },
+      { "name": "TLDR Newsletter", "url": "https://tldr.tech/", "description": "Daily byte-sized tech news and trends" },
+      { "name": "Hacker News", "url": "https://news.ycombinator.com/", "description": "Y Combinator's tech news aggregator and discussion forum" }
     ]
   }
 ]
