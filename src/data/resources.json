@@ -29,7 +29,8 @@
       { "name": "Andrej Karpathy", "url": "https://www.youtube.com/@AndrejKarpathy", "description": "Neural networks explained from scratch" },
       { "name": "ALifeEngineered", "url": "https://www.youtube.com/@ALifeEngineered", "description": "Engineer career advice" },
       { "name": "Dwarkesh Patel", "url": "https://www.youtube.com/@DwarkeshPatel", "description": "AI podcast and deep-dive interviews" },
-      { "name": "Ryan Peterman", "url": "https://www.youtube.com/@RyanLPeterman", "description": "SWE career stories" }
+      { "name": "Ryan Peterman", "url": "https://www.youtube.com/@RyanLPeterman", "description": "SWE career stories" },
+      { "name": "Missing Semester (MIT)", "url": "https://missing.csail.mit.edu/", "description": "Practical dev tools: shell, git, vim, debugging" }
     ]
   },
   {
@@ -107,6 +108,15 @@
       { "name": "Claude Code", "url": "https://docs.anthropic.com/en/docs/claude-code", "description": "Anthropic's CLI for agentic coding with Claude" },
       { "name": "Cursor", "url": "https://www.cursor.com/", "description": "AI-powered code editor" },
       { "name": "Model Context Protocol", "url": "https://modelcontextprotocol.io/", "description": "Open protocol for connecting AI to tools and data" }
+    ]
+  },
+  {
+    "id": "books",
+    "title": "Books",
+    "resources": [
+      { "name": "Operating Systems: Three Easy Pieces", "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/", "description": "Free online OS textbook, excellent for CS fundamentals" },
+      { "name": "Deep Learning (Goodfellow)", "url": "https://www.deeplearningbook.org/", "description": "The definitive deep learning textbook, free online" },
+      { "name": "Build (Tony Fadell)", "url": "https://www.buildc.com/the-book", "description": "Advice on building products and teams from the iPod creator" }
     ]
   },
   {
